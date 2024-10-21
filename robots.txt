@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://ratofter.github.io/ratofter.txt.gz
+Sitemap: https://ratofter.github.io/app/ratofter.txt.gz
+Sitemap: https://ratofter.github.io/assets/ratofter.txt.gz
+Sitemap: https://ratofter.github.io/css/ratofter.txt.gz
+Sitemap: https://ratofter.github.io/includes/ratofter.txt.gz
+Sitemap: https://ratofter.github.io/item/ratofter.txt.gz
+Sitemap: https://ratofter.github.io/src/ratofter.txt.gz
